@@ -1,16 +1,7 @@
-# get_ready
+# Development-of-an-Assistive-App-on-Girls-Who-Code
+A social good app is about giving children appropriate safety in park resources. It's not only just park information. It's about restoring children's safety in all of its complexities and freedom. Make the difference we need to make.!
 
-A new Flutter project.
+<img width="646" alt="Isory's Certificate " src="https://user-images.githubusercontent.com/103542108/171726398-596792a9-3cce-4aed-a9da-3893e3046657.png">
 
-## Getting Started
+<img width="662" alt="ESP_Poster" src="https://user-images.githubusercontent.com/103542108/171726411-479304ea-8864-4281-a98e-8d70df5ccc54.png">
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
